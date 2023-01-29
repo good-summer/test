@@ -4,6 +4,9 @@
 int main()
 {
     int test = 2;
+    FILE *pf = NULL;
+
+    printf("go for it!");
 
     exit(0);
 }
