@@ -7,6 +7,6 @@ int main()
     FILE *pf = NULL;
 
     printf("go for it!");
-    printf("test for you !");
+    printf("123");
     exit(0);
 }
